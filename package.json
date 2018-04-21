@@ -1,0 +1,14 @@
+{
+  "name": "pull-regenerate",
+  "version": "0.0.0",
+  "description": "A source that masks other sources over its lifetime.",
+  "author": "Jamen Marz <jamenmarz@gmail.com>",
+  "main": "lib/pull-regenerate.js",
+  "keywords": [
+    "pull-stream"
+  ],
+  "devDependencies": {
+    "pull-stream": "^3.6.7",
+    "tape": "^4.9.0"
+  }
+}
